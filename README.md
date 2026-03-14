@@ -1,7 +1,7 @@
 # Egyptian National ID
 
 [![PyPI version](https://img.shields.io/pypi/v/egyid.svg)](https://pypi.org/project/egyid/)
-[![Python versions](https://img.shields.io/pypi/pyversions/egyid.svg)](https://pypi.org/project/egyid/)
+[![Python versions](https://img.shields.io/pypi/pyversions/egyid)](https://pypi.org/project/egyid/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/Petter0x1/egyid/actions/workflows/ci.yml/badge.svg)](https://github.com/Petter0x1/egyid/actions)
 
@@ -25,7 +25,7 @@ A lightweight and comprehensive Python library for validating, parsing, and gene
 - **Generation**: Create valid mock Egyptian National IDs for testing and development
 - **Type Safety**: Full type hints for better IDE support and code reliability
 - **Arabic Support**: Handles Arabic numerals in ID input
-- **Cross-Platform**: Compatible with Python 3.8+
+- **Cross-Platform**: Compatible with Python 3.9+
 
 ## Installation
 
@@ -45,7 +45,7 @@ pip install .
 
 ### Requirements
 
-- Python 3.8 or higher
+- Python 3.9 or higher
 - No external dependencies
 
 ## Quick Start
